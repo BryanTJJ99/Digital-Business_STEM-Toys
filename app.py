@@ -230,7 +230,7 @@ options = st.sidebar.radio(
 
 st.sidebar.markdown('''
 ---
-Created with ❤️ by Team 2: Bryan, Beatrice, etc.
+Created with ❤️ by Team 2
 ''')
 
 # To call the pages created
